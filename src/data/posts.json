@@ -1,16 +1,22 @@
 {
   "posts": [
     {
-      "id": "next.js13-udemy",
-      "title": "udemyで学習",
-      "content": "Udemyで学習を始めました。",
-      "createdAt": "2024/03/22"
-    },
-    {
       "id": "json-server",
       "title": "JSON サーバー",
       "content": "ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ",
       "createdAt": "2024/02/22"
+    },
+    {
+      "id": "Next.js-redirect",
+      "title": "Next.jsのリダイレクトについて",
+      "content": "Next.jsのリダイレクトについて書いてみようと思います。SSG,SSR,ISRそれぞれで、リダイレクトする際に処理を分岐させる必要があります。",
+      "createdAt": "2024-03-26T01:16:47.505Z"
+    },
+    {
+      "id": "new-post",
+      "title": "新しい投稿",
+      "content": "投稿しています。",
+      "createdAt": "2024-03-26T01:18:57.317Z"
     }
   ]
 }
